@@ -1,5 +1,5 @@
 # Win10AcrylicEnabler
-A DLL that use windows api to enable the blur effect on windows10
+A DLL that use windows api to enable the blur effect for transparent window  on windows10
 
 # How to use
 
