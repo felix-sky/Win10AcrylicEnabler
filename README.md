@@ -5,7 +5,7 @@ A DLL that use windows api to enable the blur effect on windows10
 
 ## Use the DLL
 
-(```)
+```
   typedef int(*MYFUNC)(HWND,INT);
   
   HWND w = FindWindow(NULL, _T("CommandLine")); // target window
@@ -18,9 +18,9 @@ A DLL that use windows api to enable the blur effect on windows10
 	{
 		std::cout << "load failed";
 	}
-(```)
+```
 
 ## Use the header file instead
-(```)
+```
   #include "xblur.h"
-(```)
+```
