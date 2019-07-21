@@ -24,3 +24,6 @@ A DLL that use windows api to enable the blur effect on windows10
 ```
   #include "xblur.h"
 ```
+
+# Samples
+![image](https://github.com/felix-sky/Win10AcrylicEnabler/blob/master/images/0.jpg)
